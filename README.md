@@ -64,6 +64,8 @@ The best choise of clusters is 3.
 
 The best number of clusters is 3.  
 
-![Alt text](ReadMeImg/cluster_silhouette_score.png)![Alt text](ReadMeImg/cluster_silhouette_score_DenseNet201.png)
-
+<p align='left'>  
+  <img src='ReadMeImg/cluster_silhouette_score.png' width='400'/>
+  <img src='ReadMeImg/cluster_silhouette_score_DenseNet201.png' width='400'/>
+</p>
 
