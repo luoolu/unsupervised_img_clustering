@@ -1,0 +1,9 @@
+keras.preprocessing==1.1.0
+keras_applications==1.0.7
+tensorflow==1.15
+keras==2.2.0
+sklearn
+pillow
+numpy
+matplotlib==2.2
+
