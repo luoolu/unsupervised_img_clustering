@@ -60,12 +60,12 @@ The best choise of clusters is 3.
 
 
 
-## Expreiment 3: DenseNet201 Vs ResNet
+## Expreiment 3: ResNet Vs DenseNet201
 
 The best number of clusters is 3.  
 
 <p align='left'>  
-  <img src='ReadMeImg/cluster_silhouette_score.png' width='400'/>
-  <img src='ReadMeImg/cluster_silhouette_score_DenseNet201.png' width='400'/>
+  <img src='ReadMeImg/cluster_silhouette_score.png' width='600'/>
+  <img src='ReadMeImg/cluster_silhouette_score_DenseNet201.png' width='600'/>
 </p>
 
